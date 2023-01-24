@@ -1,0 +1,12 @@
+1. remove all the backend connections from the project (login, firebase)
+
+2. make category system dynamic
+
+3. make sure to keep the cart process intact.
+
+4. create database and server for products and order
+
+5. Link backend to frontend
+
+6. create order with checkout, save the order in the backend order list.
+
